@@ -1,5 +1,11 @@
 ReUse - Hardware Marketplace
 
+# Segurança
+
+Caso ocorra alguma dificuldade para testar o protótipo do projeto, estaremos disponibilizando o link para o youtube. Demonstrando a utilização do aplicativo dentro emulador Android, na versão 16.
+Youtube:
+https://youtube.com/shorts/1iOH-9lkdGI?feature=share
+
 # Integrantes  
 - Gustavo Galvão – RM: 565969  
 - Lucas Tamura – RM: 563249  
